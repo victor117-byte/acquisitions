@@ -8,6 +8,20 @@
       "when": 1758483969077,
       "tag": "0000_useful_expediter",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1759784428893,
+      "tag": "0001_magenta_wildside",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1759786345554,
+      "tag": "0002_smart_absorbing_man",
+      "breakpoints": true
     }
   ]
 }
