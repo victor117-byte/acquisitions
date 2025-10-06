@@ -1,0 +1,11 @@
+{
+  "extends": "next/core-web-vitals",
+  "ignorePatterns": [
+    "src/models/**",
+    "src/config/**",
+    "src/app.js",
+    "src/server.js",
+    "src/index.js",
+    "drizzle/**"
+  ]
+}
