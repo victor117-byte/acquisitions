@@ -112,7 +112,7 @@ export default function RegisterPage() {
         <CardHeader className="space-y-1">
           <CardTitle className="text-2xl text-center">Crear Cuenta</CardTitle>
           <CardDescription className="text-center">
-            Regístrate para empezar a usar Acquisitions
+            Regístrate para empezar a usar Adquion
           </CardDescription>
         </CardHeader>
         <CardContent>

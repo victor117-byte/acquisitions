@@ -6,7 +6,7 @@ import { Providers } from '@/components/providers';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Acquisitions - Gestión Fiscal Inteligente',
+  title: 'Adquion - Gestión Fiscal Inteligente',
   description: 'Plataforma SaaS para contadores y contribuyentes. Gestión fiscal automatizada e inteligente.',
   keywords: ['fiscal', 'contadores', 'contribuyentes', 'saas', 'gestión'],
 };

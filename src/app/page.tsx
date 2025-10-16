@@ -31,7 +31,7 @@ export default function HomePage() {
         <nav className="flex items-center justify-between">
           <div className="flex items-center space-x-2">
             <BarChart3 className="h-8 w-8 text-primary" />
-            <span className="text-2xl font-bold text-gradient">Acquisitions</span>
+            <span className="text-2xl font-bold text-gradient">Adquion</span>
           </div>
           <div className="flex items-center space-x-4">
             <Link href="/auth/login">
@@ -160,7 +160,7 @@ export default function HomePage() {
       {/* Footer */}
       <footer className="container mx-auto px-4 py-8 border-t mt-16">
         <div className="text-center text-muted-foreground">
-          <p>&copy; 2024 Acquisitions. Todos los derechos reservados.</p>
+          <p>&copy; 2024 Adquion. Todos los derechos reservados.</p>
         </div>
       </footer>
     </div>
