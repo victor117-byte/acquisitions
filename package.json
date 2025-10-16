@@ -1,5 +1,5 @@
 {
-  "name": "acquisitions",
+  "name": "adquion",
   "version": "1.0.0",
   "description": "SaaS para contadores y contribuyentes - Gestión fiscal inteligente",
   "private": true,
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/victor117-byte/acquisitions.git"
+    "url": "git+https://github.com/victor117-byte/Adquion.git"
   },
   "keywords": [
     "saas",
@@ -32,9 +32,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/victor117-byte/acquisitions/issues"
+    "url": "https://github.com/victor117-byte/Adquion/issues"
   },
-  "homepage": "https://github.com/victor117-byte/acquisitions#readme",
+  "homepage": "https://adquion.mx",
   "dependencies": {
     "@hookform/resolvers": "^3.9.0",
     "@neondatabase/serverless": "^1.0.2",

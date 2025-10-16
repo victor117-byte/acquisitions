@@ -1,4 +1,4 @@
-# SaaS para Contadores - Sistema de Gestión Documental
+# Adquion — SaaS para Contadores - Sistema de Gestión Documental
 
 Una aplicación web moderna construida con Next.js 15 para ayudar a contadores y profesionales financieros a gestionar documentos, clientes y procesos contables.
 
@@ -27,7 +27,7 @@ Una aplicación web moderna construida con Next.js 15 para ayudar a contadores y
 1. **Clonar el repositorio**
 ```bash
 git clone <tu-repositorio>
-cd acquisitions
+cd Adquion
 ```
 
 2. **Instalar dependencias**
@@ -150,4 +150,4 @@ Ahora puedes:
 3. Ver el dashboard interactivo
 4. Configurar planes de suscripción
 
-La aplicación está corriendo en: http://localhost:3000
+La aplicación está corriendo en: http://localhost:3000 (o en producción: https://adquion.mx)
